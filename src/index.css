@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .tooltip {
+    @apply flex rounded-xl bg-slate-600 px-10 py-5 tracking-widest text-white !important;
+  }
+}

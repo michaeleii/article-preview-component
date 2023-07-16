@@ -44,7 +44,7 @@ function Article() {
           </button>
           <Tooltip
             id="shareTooltip"
-            className=" flex rounded-xl bg-slate-600 px-10 py-5 tracking-widest text-white"
+            className="tooltip"
             clickable
             isOpen={isShareOpen}
           >
