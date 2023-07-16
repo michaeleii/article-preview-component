@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/article-preview-component-react-tailwindcss-mqgw3gUFns](https://www.frontendmentor.io/solutions/article-preview-component-react-tailwindcss-mqgw3gUFns)
+- Live Site URL: [https://michaellei-article-preview.netlify.app/](https://michaellei-article-preview.netlify.app/)
 
 ## Built with
 
